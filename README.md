@@ -10,7 +10,8 @@ Este proyecto es una aplicación de consola desarrollada en Python que cumple co
 # Estructura del Proyecto
 El código se ha organizado siguiendo la jerarquía modular solicitada:
 
-<img width="502" height="255" alt="image" src="https://github.com/user-attachments/assets/6fd3b34a-7d2c-4f18-a8b6-43fd3fd04f31" />
+<img width="490" height="249" alt="image" src="https://github.com/user-attachments/assets/73aa24d6-18f0-4edc-8b3d-68e7ff54e321" />
+
 
 # Ejemplo de Funcionalidad
 - **Entrada:** El usuario ingresa su nombre y una temperatura en Celsius (ej. 0).
